@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="28" viewBox="0 0 1012 28">
+<title>section divider</title>
+<style><![CDATA[
+.march { animation: march 1.1s steps(6) infinite; }
+    @keyframes march { from { transform: translateX(0) } to { transform: translateX(24px) } }
+    .roll { animation: roll-x 13s linear infinite; }
+    @keyframes roll-x { from { transform: translateX(-30px) } to { transform: translateX(1042px) } }
+    .spin { animation: spin 1.1s steps(8) infinite; transform-origin: 12px 12px; }
+    @keyframes spin { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }
+    .dspark1 { animation: dsparkle 2.2s steps(2) infinite; }
+    .dspark2 { animation: dsparkle 2.2s steps(2) infinite .7s; }
+    .dspark3 { animation: dsparkle 2.2s steps(2) infinite 1.4s; }
+    @keyframes dsparkle { 0%,100% { opacity: .15 } 45%,60% { opacity: 1 } }
+]]></style>
+<rect width="1012" height="28" fill="#10121f"/>
+<g class="march"><rect x="8" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="32" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="56" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="80" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="104" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="128" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="152" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="176" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="200" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="224" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="248" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="272" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="296" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="320" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="344" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="368" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="392" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="416" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="440" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="464" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="488" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="512" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="536" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="560" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="584" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="608" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="632" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="656" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="680" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="704" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="728" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="752" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="776" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="800" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="824" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="848" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="872" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="896" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="920" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="944" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="968" y="12" width="12" height="4" fill="#3a3f5c"/><rect x="992" y="12" width="12" height="4" fill="#3a3f5c"/></g>
+<rect x="0" y="12" width="8" height="4" fill="#ee1515"/>
+<rect x="1004" y="12" width="8" height="4" fill="#ee1515"/>
+<g transform="translate(236,2)"><g class="dspark1"><path d="M4 0h2v2h-2zM2 2h2v2h-2zM6 2h2v2h-2zM0 4h10v2h-10zM2 6h2v2h-2zM6 6h2v2h-2zM4 8h2v2h-2z" fill="#ffcb05"/></g></g>
+<g transform="translate(500,14)"><g class="dspark2"><path d="M4 0h2v2h-2zM2 2h2v2h-2zM6 2h2v2h-2zM0 4h10v2h-10zM2 6h2v2h-2zM6 6h2v2h-2zM4 8h2v2h-2z" fill="#7c8ff0"/></g></g>
+<g transform="translate(764,2)"><g class="dspark3"><path d="M4 0h2v2h-2zM2 2h2v2h-2zM6 2h2v2h-2zM0 4h10v2h-10zM2 6h2v2h-2zM6 6h2v2h-2zM4 8h2v2h-2z" fill="#ffcb05"/></g></g>
+<g class="roll"><g class="spin"><g><path d="M6 2h12v2h-12zM4 4h16v2h-16zM2 6h20v2h-20zM0 8h24v2h-24zM0 10h24v2h-24z" fill="#ee1515"/><path d="M0 12h24v2h-24zM0 14h10v2h-10zM14 14h10v2h-10zM0 16h8v2h-8zM16 16h8v2h-8zM0 18h10v2h-10zM14 18h10v2h-10z" fill="#05060a"/><path d="M10 14h4v2h-4zM8 16h2v2h-2zM12 16h2v2h-2zM10 18h4v2h-4zM0 20h24v2h-24zM2 22h20v2h-20zM4 24h16v2h-16z" fill="#f4f4f8"/><path d="M10 16h2v2h-2zM14 16h2v2h-2z" fill="#3b4cca"/></g></g></g>
+</svg>

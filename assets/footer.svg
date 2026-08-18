@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="170" viewBox="0 0 1012 170">
+<title>footer — gotta commit em all</title>
+<desc>Animated pixel footer with rising embers, twinkling stars and a blinking cursor.</desc>
+<style><![CDATA[
+.px-text { font-family: ui-monospace,'Cascadia Mono','Lucida Console',Consolas,Menlo,monospace; font-weight: 700; }
+    .tw { animation: twinkle 3.4s steps(2) infinite; }
+    @keyframes twinkle { 0%,100% { opacity: .2 } 50% { opacity: 1 } }
+    .ember { animation: rise 6s linear infinite; }
+    @keyframes rise {
+      0% { transform: translateY(0); opacity: 0 }
+      12% { opacity: 1 }
+      80% { opacity: .9 }
+      100% { transform: translateY(-128px); opacity: 0 }
+    }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .ball-wiggle { animation: wiggle 2.8s steps(2) infinite; transform-origin: 18px 20px; }
+    @keyframes wiggle { 0%,100% { transform: rotate(0deg) } 25% { transform: rotate(-14deg) } 75% { transform: rotate(12deg) } }
+    .heart-beat { animation: beat 1.6s steps(2) infinite; }
+    @keyframes beat { 0%,100% { opacity: .75 } 50% { opacity: 1 } }
+]]></style>
+<rect width="1012" height="170" fill="#0b0d17"/>
+<g><rect class="tw" x="107" y="17" width="2" height="2" fill="#fff3b0" style="animation-delay:3.03s"/><rect class="tw" x="519" y="14" width="2" height="2" fill="#fff3b0" style="animation-delay:1.20s"/><rect class="tw" x="807" y="39" width="2" height="2" fill="#fff3b0" style="animation-delay:0.18s"/><rect class="tw" x="736" y="27" width="2" height="2" fill="#fff3b0" style="animation-delay:2.94s"/><rect class="tw" x="458" y="46" width="2" height="2" fill="#fff3b0" style="animation-delay:2.22s"/><rect class="tw" x="93" y="25" width="2" height="2" fill="#fff3b0" style="animation-delay:3.19s"/><rect class="tw" x="553" y="20" width="2" height="2" fill="#fff3b0" style="animation-delay:0.80s"/><rect class="tw" x="715" y="44" width="2" height="2" fill="#fff3b0" style="animation-delay:1.93s"/><rect class="tw" x="425" y="12" width="2" height="2" fill="#fff3b0" style="animation-delay:3.37s"/><rect class="tw" x="878" y="43" width="2" height="2" fill="#fff3b0" style="animation-delay:0.37s"/><rect class="tw" x="647" y="20" width="2" height="2" fill="#fff3b0" style="animation-delay:3.86s"/><rect class="tw" x="93" y="34" width="2" height="2" fill="#fff3b0" style="animation-delay:2.70s"/><rect class="tw" x="475" y="25" width="2" height="2" fill="#fff3b0" style="animation-delay:0.28s"/><rect class="tw" x="159" y="21" width="2" height="2" fill="#fff3b0" style="animation-delay:0.20s"/></g>
+<rect y="158" width="1012" height="12" fill="#1a1c2c"/>
+<rect y="158" width="1012" height="3" fill="#3a3f5c"/>
+<g><rect class="ember" x="683" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:0.24s;animation-duration:5.77s"/><rect class="ember" x="394" y="156" width="4" height="4" fill="#ff9d47" style="animation-delay:1.76s;animation-duration:7.97s"/><rect class="ember" x="700" y="156" width="4" height="4" fill="#ff9d47" style="animation-delay:5.94s;animation-duration:5.55s"/><rect class="ember" x="913" y="156" width="4" height="4" fill="#ff9d47" style="animation-delay:3.67s;animation-duration:5.34s"/><rect class="ember" x="965" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:0.86s;animation-duration:6.46s"/><rect class="ember" x="584" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:4.44s;animation-duration:7.92s"/><rect class="ember" x="56" y="156" width="3" height="3" fill="#ffcb05" style="animation-delay:1.92s;animation-duration:7.68s"/><rect class="ember" x="89" y="156" width="4" height="4" fill="#ffcb05" style="animation-delay:4.59s;animation-duration:6.53s"/><rect class="ember" x="425" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:6.60s;animation-duration:7.54s"/><rect class="ember" x="957" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:6.08s;animation-duration:8.82s"/><rect class="ember" x="614" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:1.61s;animation-duration:8.40s"/><rect class="ember" x="836" y="156" width="3" height="3" fill="#ff9d47" style="animation-delay:1.48s;animation-duration:6.13s"/><rect class="ember" x="514" y="156" width="3" height="3" fill="#ffcb05" style="animation-delay:6.10s;animation-duration:5.83s"/><rect class="ember" x="146" y="156" width="4" height="4" fill="#ffcb05" style="animation-delay:1.61s;animation-duration:7.39s"/><rect class="ember" x="630" y="156" width="4" height="4" fill="#ff9d47" style="animation-delay:5.25s;animation-duration:8.20s"/><rect class="ember" x="607" y="156" width="4" height="4" fill="#ff9d47" style="animation-delay:4.80s;animation-duration:8.18s"/></g>
+
+<g transform="translate(120,58)"><g class="ball-wiggle"><g><path d="M9 0h18v3h-18zM6 3h24v3h-24zM3 6h30v3h-30zM0 9h36v3h-36zM0 12h36v3h-36z" fill="#ee1515"/><path d="M0 15h36v3h-36zM0 18h15v3h-15zM21 18h15v3h-15zM0 21h12v3h-12zM24 21h12v3h-12zM0 24h15v3h-15zM21 24h15v3h-15z" fill="#05060a"/><path d="M15 18h6v3h-6zM12 21h3v3h-3zM18 21h3v3h-3zM15 24h6v3h-6zM0 27h36v3h-36zM3 30h30v3h-30zM6 33h24v3h-24z" fill="#f4f4f8"/><path d="M15 21h3v3h-3zM21 21h3v3h-3z" fill="#3b4cca"/></g></g></g>
+
+<text class="px-text" x="506" y="76" font-size="26" letter-spacing="5" fill="#ffcb05" text-anchor="middle">GOTTA COMMIT &#8217;EM ALL!</text>
+<g>
+  <text class="px-text" x="506" y="108" font-size="13" letter-spacing="4" fill="#7c8ff0" text-anchor="middle">CONTINUE? &#8734;</text>
+  <rect class="cursor" x="580" y="96" width="9" height="14" fill="#ffcb05"/>
+</g>
+<text class="px-text" x="506" y="138" font-size="10" letter-spacing="3" fill="#f4f4f8" opacity=".6" text-anchor="middle">ANJALI SAPUTRA · GLORYSID · MADE WITH</text>
+<g class="heart-beat" transform="translate(654,128)"><g><path d="M2 0h4v2h-4zM8 0h4v2h-4zM0 2h14v2h-14zM0 4h14v2h-14zM2 6h10v2h-10zM4 8h6v2h-6zM6 10h2v2h-2z" fill="#ff6b6b"/></g></g>
+
+<rect x="1.5" y="1.5" width="1009" height="167" fill="none" stroke="#3a3f5c" stroke-width="3"/>
+</svg>

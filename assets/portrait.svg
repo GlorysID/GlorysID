@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<title>trainer portrait</title>
+<style><![CDATA[
+.scan-band { animation: scanmove 3.6s linear infinite; }
+    @keyframes scanmove { from { transform: translateY(-40px) } to { transform: translateY(260px) } }
+    .blink-eye { animation: eyeblink 4.2s steps(1) infinite; opacity: 0; }
+    @keyframes eyeblink { 0%,93%,100% { opacity: 0 } 94%,97% { opacity: 1 } }
+    .corner-pulse { animation: cpulse 2.2s steps(2) infinite; }
+    @keyframes cpulse { 0%,100% { opacity: .5 } 50% { opacity: 1 } }
+    .px-text { font-family: ui-monospace,'Cascadia Mono','Lucida Console',Consolas,Menlo,monospace; font-weight: 700; }
+]]></style>
+<rect width="240" height="240" fill="#0b0d17"/>
+<rect x="8" y="8" width="224" height="224" fill="#1a1c2c"/>
+<rect x="8" y="8" width="224" height="224" fill="none" stroke="#3a3f5c" stroke-width="2"/>
+<g><path d="M72 26h96v12h-96zM48 38h24v12h-24zM168 38h24v12h-24zM36 50h12v12h-12zM192 50h12v12h-12zM36 62h12v12h-12zM84 62h72v12h-72zM192 62h12v12h-12zM24 74h12v12h-12zM60 74h120v12h-120zM204 74h12v12h-12zM24 86h192v12h-192zM48 98h24v12h-24zM168 98h24v12h-24zM48 110h12v12h-12zM180 110h12v12h-12zM48 122h12v12h-12zM72 122h24v12h-24zM144 122h24v12h-24zM180 122h12v12h-12zM48 134h12v12h-12zM72 134h24v12h-24zM144 134h24v12h-24zM180 134h12v12h-12zM48 146h12v12h-12zM180 146h12v12h-12zM48 158h12v12h-12zM96 158h48v12h-48zM180 158h12v12h-12zM60 170h12v12h-12zM168 170h12v12h-12zM72 182h96v12h-96zM96 194h48v12h-48z" fill="#05060a"/><path d="M72 38h96v12h-96zM48 50h144v12h-144zM48 62h36v12h-36zM156 62h36v12h-36zM36 74h24v12h-24zM180 74h24v12h-24z" fill="#ee1515"/><path d="M72 98h96v12h-96zM60 110h120v12h-120zM60 122h12v12h-12zM96 122h48v12h-48zM168 122h12v12h-12zM60 134h12v12h-12zM96 134h48v12h-48zM168 134h12v12h-12zM60 146h120v12h-120zM60 158h36v12h-36zM144 158h36v12h-36zM72 170h96v12h-96z" fill="#f2c99b"/></g>
+<g class="blink-eye">
+  <rect x="60" y="122" width="24" height="24" fill="#f2c99b"/>
+  <rect x="132" y="122" width="24" height="24" fill="#f2c99b"/>
+</g>
+<rect class="scan-band" x="10" y="0" width="220" height="10" fill="#7c8ff0" opacity=".14"/>
+<rect class="corner-pulse" x="14" y="14" width="14" height="4" fill="#ffcb05"/>
+<rect class="corner-pulse" x="14" y="14" width="4" height="14" fill="#ffcb05"/>
+<rect class="corner-pulse" x="212" y="222" width="14" height="4" fill="#ffcb05"/>
+<rect class="corner-pulse" x="222" y="212" width="4" height="14" fill="#ffcb05"/>
+<text class="px-text" x="120" y="220" font-size="10" letter-spacing="3" fill="#ffcb05" text-anchor="middle">TRAINER · LV.100</text>
+</svg>
