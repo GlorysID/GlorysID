@@ -1,209 +1,229 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2a6d,30:7b2ff7,60:05d9e8,100:f9c80e&height=190&section=header&text=NIGHT%20ARCADE&fontSize=54&fontColor=ffffff&fontAlignY=30&animation=fadeIn&desc=GLORYSID%20PROFILE&descAlignY=48&descSize=16" alt="Night Arcade Banner"/>
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1200&color=05D9E8&center=true&vCenter=true&multiline=true&width=620&height=90&lines=ANJALI+SAPUTRA;AUTOMATICAL+TECHNOLOGY;PRESS+START+TO+CONTINUE..." alt="Typing SVG"/></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=GlorysID&style=for-the-badge&color=ff2a6d&label=PLAYERS+ONLINE" alt="Visitor counter"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        █  ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢  █
-        █      I N S E R T   C O I N           █
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-</div>
-
-## 🕹️ ▸ PLAYER SELECT
-
-<table align="center">
-<tr>
-<td width="55%">
-
-### 👾 PLAYER 1 — ANJALI SAPUTRA
-
-> *"Automating the night, one script at a time."*
-
-🌙 **Class:** Automatical Technology<br>
-🎯 **Main Quest:** Building automation & cool things<br>
-🧠 **Playstyle:** Code by night, debug by dawn<br>
-📍 **Server:** Indonesia 🇮🇩
-
-</td>
-<td width="45%">
-
-### ⚡ STATUS
-
-<pre>
-HP   ▓▓▓▓▓▓▓▓▓░  92%
-MP   ▓▓▓▓▓▓▓░░░  74%
-XP   ▓▓▓▓▓▓▓▓░░  83%
-BUG  ▓▓░░░░░░░░  17%
-</pre>
-
-**LVL 20+** • *Night Mode: ON* 🌙
-
-</td>
-</tr>
-</table>
+<!--
+  ============================================================
+  CARA PAKAI (baca dulu sebelum commit ke repo USERNAME/USERNAME)
+  ============================================================
+  1. Ganti semua kemunculan  USERNAME        -> username GitHub kamu (huruf kecil, tanpa spasi)
+  2. Ganti semua kemunculan  YOUR_NAME        -> nama tampilan kamu
+  3. Ganti semua kemunculan  YOUR_ROLE        -> role/kelas kamu (Backend Engineer, dst)
+  4. Ganti semua kemunculan  YOUR_CITY        -> kota/negara kamu
+  5. Ganti bagian QUEST LOG dengan proyek asli + link repo asli
+  6. Ganti bagian MULTIPLAYER INVITE dengan email/sosmed asli (ganti YOUR_EMAIL, YOUR_LINKEDIN, dst)
+  7. Simpan file ini sebagai README.md di repo bernama PERSIS sama dengan username GitHub kamu
+     (repo khusus ini otomatis tampil di halaman profil GitHub kamu)
+  8. Bagian "CONTINUE? [Y/N]" (ular pemakan kontribusi) butuh GitHub Action terpisah,
+     instruksinya ada di dalam <details> paling bawah file ini.
+  ============================================================
+-->
 
 <div align="center">
 
-**👾 ─────────────────────────────────────── 👾**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=PLAYER%20ONE&fontSize=48&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=README.EXE%20-%20LOADING%20PROFILE...&descAlignY=64&descSize=16&descColor=00F5FF" width="100%" alt="header"/>
 
-</div>
-
-## 🎮 ▸ NOW PLAYING
-
-<div align="center">
-
-```
-♪ ♫ ♪ ────────────────────────────── ♪ ♫ ♪
-┌────────────────────────────────────────┐
-│  ▶  lofi beats to automate to          │
-│     ▂▃▅▆█  ▆▅▃▂  ▂▃▅▆█  ▆▅▃▂          │
-└────────────────────────────────────────┘
-```
-
-</div>
-
-## 📜 ▸ QUEST LOG
-
-<table align="center">
-<tr>
-<td>
-
-✅ **Completed**
-- [x] Master the basics of the web realm
-- [x] Unlock TypeScript power-up
-- [x] Enter the Roblox dungeon
-
-</td>
-<td>
-
-🔄 **In Progress**
-- [ ] Automation side-quests
-- [ ] Level up backend skills
-- [ ] ??? (secret quest)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**👾 ─────────────────────────────────────── 👾**
-
-</div>
-
-## 💪 ▸ POWER-UPS / SKILL TREE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,lua,roblox&theme=dark&perline=9" alt="Skill icons"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Roblox-ff2a6d?style=for-the-badge&logo=roblox&logoColor=white"/>
-
-</div>
-
-<div align="center">
-
-**👾 ─────────────────────────────────────── 👾**
-
-</div>
-
-## 📊 ▸ HIGH SCORES
-
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GlorysID&show_icons=true&theme=transparent&bg_color=1a1a2e&title_color=05d9e8&text_color=eaeaea&icon_color=ff2a6d&border_color=7b2ff7&rank_icon=github" alt="GitHub Stats"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GlorysID&background=1a1a2e&border=7b2ff7&stroke=05d9e8&ring=ff2a6d&fire=f9c80e&currStreakNum=05d9e8&sideNums=eaeaea&currStreakLabel=f9c80e&sideLabels=eaeaea&dates=8b8b8b" alt="Streak Stats"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlorysID&layout=compact&theme=transparent&bg_color=1a1a2e&title_color=05d9e8&text_color=eaeaea&border_color=7b2ff7&hide_border=false" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-## 🏆 ▸ ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GlorysID&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-
-</div>
-
-<div align="center">
-
-**👾 ─────────────────────────────────────── 👾**
-
-</div>
-
-## 🤝 ▸ CO-OP MODE
-
-<div align="center">
-
-Want to team up? Send a party invite 👇
-
-<br><br>
-
-<a href="https://github.com/GlorysID">
-<img src="https://img.shields.io/github/followers/GlorysID?style=for-the-badge&color=7b2ff7&label=FOLLOW%20PLAYER%201&logo=github"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=50&lines=INSERT+USERNAME+TO+CONTINUE_;LOADING+SKILL+TREE...;PRESS+START" alt="Typing SVG" />
 </a>
 
 </div>
 
-<br>
+```
+$ ./boot_profile.sh --player=USERNAME
+
+[ OK ] mounting   /dev/creativity ............ done
+[ OK ] loading    tech_stack.dll ............. done
+[ OK ] compiling  coffee -> code ............. done
+[ OK ] spawning   PLAYER_ONE @ YOUR_CITY ...... done
+
+> STATUS: ONLINE. Scroll down to load full profile.
+```
+
+<br/>
+
+## `> PLAYER CARD`
+
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
+
+<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=USERNAME&backgroundColor=0f0c29&radius=12" width="170" alt="pixel avatar"/>
+
+<sub><b>CLASS</b> — YOUR_ROLE</sub><br/>
+<sub><b>ORIGIN</b> — YOUR_CITY</sub><br/>
+<sub><b>GUILD</b> — Freelance / Studio Name</sub>
+
+</td>
+<td width="70%" valign="top">
+
+| STAT | VALUE |
+| :-- | :-- |
+| NAME | `YOUR_NAME` |
+| LEVEL | `05` (years of experience) |
+| ALIGNMENT | Chaotic Good — ships on Friday afternoon |
+| HP — Motivation | `████████░░` 80% |
+| MP — Caffeine | `██████████` 100% |
+| XP — Currently Learning | `███████░░░` 70% |
+
+<details>
+<summary><code>&gt; OPEN DIALOGUE BOX</code></summary>
+<br/>
+
+Tulis bio singkat kamu di sini — siapa kamu, apa yang kamu bangun, dan apa yang bikin kamu excited soal coding. Dua sampai tiga kalimat sudah cukup, karena ini area dialog NPC, bukan CV.
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> INVENTORY — EQUIPPED GEAR`
+
+<table width="100%">
+<tr>
+<th width="33%">WEAPON (Languages)</th>
+<th width="33%">ARMOR (Frameworks)</th>
+<th width="34%">ACCESSORY (Tools)</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" /></td>
+</tr>
+</table>
+
+<br/>
+
+## `> SKILL TREE`
+
+<details>
+<summary><b>[ UNLOCK ] Frontend Branch</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,sass&theme=dark&perline=8" />
+</details>
+
+<details>
+<summary><b>[ UNLOCK ] Backend Branch</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,go,java,graphql&theme=dark&perline=8" />
+</details>
+
+<details>
+<summary><b>[ UNLOCK ] Database &amp; Infra Branch</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,nginx&theme=dark&perline=8" />
+</details>
+
+<details>
+<summary><b>[ UNLOCK ] Tools Branch</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vim,postman&theme=dark&perline=8" />
+</details>
+
+<br/>
+
+## `> QUEST LOG`
+
+| QUEST | TYPE | STATUS | REWARD |
+| :-- | :-- | :-- | :-- |
+| [Nama Proyek 1](https://github.com/USERNAME/repo-satu) | Main Quest | `[ ACTIVE ]` | Stack: React, Node.js |
+| [Nama Proyek 2](https://github.com/USERNAME/repo-dua) | Side Quest | `[ CLEARED ]` | Stack: Python, FastAPI |
+| [Nama Proyek 3](https://github.com/USERNAME/repo-tiga) | Daily Quest | `[ IN PROGRESS ]` | Stack: TypeScript |
+
+<br/>
+
+## `> STATS SCREEN`
+
+<table width="100%">
+<tr>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub stats"/></td>
+<td width="50%"><img width="100%" src="https://streak-stats.demolab.com/?user=USERNAME&theme=synthwave&hide_border=true" alt="GitHub streak"/></td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=synthwave-84&hide_border=true&area=true" alt="activity graph"/>
+
+<br/>
+
+## `> ACHIEVEMENTS UNLOCKED`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies"/>
+</div>
+
+<br/>
+
+## `> CONTINUE? [ Y / N ]`
 
 <div align="center">
 
-```
-        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        █                                     █
-        █   G A M E   O V E R ?   N E V E R .  █
-        █                                     █
-        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<details>
+<summary><code>&gt; CARA MENGAKTIFKAN ANIMASI ULAR DI ATAS</code></summary>
+<br/>
+
+Gambar ular di atas dihasilkan oleh GitHub Action, bukan gambar statis, jadi perlu didaftarkan sekali di repo profil kamu (`USERNAME/USERNAME`):
+
+1. Buat file baru: `.github/workflows/snake.yml`
+2. Isi dengan:
+
+```yaml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c80e,30:05d9e8,60:7b2ff7,100:ff2a6d&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="Footer"/>
+3. Commit, lalu jalankan workflow-nya sekali secara manual (tab **Actions**).
+4. Setelah selesai jalan, gambar ular otomatis muncul dan ter-update tiap hari.
+
+</details>
+
+<br/>
+
+## `> MULTIPLAYER INVITE`
+
+<div align="center">
+
+| | |
+| :--: | :--: |
+| [![Gmail](https://img.shields.io/badge/-YOUR__EMAIL%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-linkedin%2Fin%2FYOUR__LINKEDIN-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN) |
+| [![X](https://img.shields.io/badge/-%40YOUR__HANDLE-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE) | [![Discord](https://img.shields.io/badge/-YOUR__DISCORD-0f0c29?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_DISCORD) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&color=39FF14&style=for-the-badge&label=VISITORS" alt="profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer&text=GAME%20OVER%20-%20THANKS%20FOR%20PLAYING&fontSize=18&fontColor=00F5FF&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
