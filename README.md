@@ -1,180 +1,171 @@
 <!--
   ============================================================
-  CARA PAKAI (baca dulu sebelum commit ke repo USERNAME/USERNAME)
-  ============================================================
-  1. Ganti semua kemunculan  USERNAME        -> username GitHub kamu (huruf kecil, tanpa spasi)
-  2. Ganti semua kemunculan  YOUR_NAME        -> nama tampilan kamu
-  3. Ganti semua kemunculan  YOUR_ROLE        -> role/kelas kamu (Backend Engineer, dst)
-  4. Ganti semua kemunculan  YOUR_CITY        -> kota/negara kamu
-  5. Ganti bagian QUEST LOG dengan proyek asli + link repo asli
-  6. Ganti bagian MULTIPLAYER INVITE dengan email/sosmed asli (ganti YOUR_EMAIL, YOUR_LINKEDIN, dst)
-  7. Simpan file ini sebagai README.md di repo bernama PERSIS sama dengan username GitHub kamu
-     (repo khusus ini otomatis tampil di halaman profil GitHub kamu)
-  8. Bagian "CONTINUE? [Y/N]" (ular pemakan kontribusi) butuh GitHub Action terpisah,
-     instruksinya ada di dalam <details> paling bawah file ini.
+  CARA PAKAI:
+  1. Simpan file ini sebagai README.md di dalam repo khusus
+     bernama SAMA PERSIS dengan username GitHub kamu
+     (contoh: github.com/USERNAME/USERNAME).
+  2. Cari-ganti semua tulisan USERNAME -> username GitHub kamu.
+  3. Cari-ganti "NAMA KAMU" dan teks placeholder lain sesuai data kamu.
+  4. Bagian "STAGE 04: WORLD MAP" berisi animasi ular (snake game)
+     yang memakan grafik kontribusi kamu -- perlu setup GitHub
+     Action sekali saja, caranya ada di bagian <details> di bawah.
+  5. Semua gif diambil dari koleksi pixel-art publik di GitHub
+     (d3vdebug/pixelartgifs, lisensi MIT) via CDN user-attachments,
+     jadi aman dipakai dan tidak akan memperberat ukuran repo kamu.
   ============================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=PLAYER%20ONE&fontSize=48&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=README.EXE%20-%20LOADING%20PROFILE...&descAlignY=64&descSize=16&descColor=00F5FF" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&height=60&lines=HELLO_WORLD.EXE;LOADING+PROFILE...;PRESS+START" alt="judul animasi" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=50&lines=INSERT+USERNAME+TO+CONTINUE_;LOADING+SKILL+TREE...;PRESS+START" alt="Typing SVG" />
-</a>
+<img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="210" alt="pixel art karakter sedang ngoding" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=4000&pause=800&color=08D9D6&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer;Pixel+Art+Enthusiast;Currently+Farming+XP+in+Open+Source" alt="subjudul animasi" />
+
+<br/>
+
+[![NEW GAME](https://img.shields.io/badge/NEW%20GAME-0D0221?style=for-the-badge&labelColor=0D0221&color=FF2E63)](#stage-01-character-select)
+[![LOAD GAME](https://img.shields.io/badge/LOAD%20GAME-0D0221?style=for-the-badge&labelColor=0D0221&color=08D9D6)](#stage-04-world-map)
+[![OPTIONS](https://img.shields.io/badge/OPTIONS-0D0221?style=for-the-badge&labelColor=0D0221&color=FFD700)](#stage-06-save-point)
 
 </div>
 
-```
-$ ./boot_profile.sh --player=USERNAME
-
-[ OK ] mounting   /dev/creativity ............ done
-[ OK ] loading    tech_stack.dll ............. done
-[ OK ] compiling  coffee -> code ............. done
-[ OK ] spawning   PLAYER_ONE @ YOUR_CITY ...... done
-
-> STATUS: ONLINE. Scroll down to load full profile.
-```
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░ INSERT COIN TO CONTINUE ░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓
 
 <br/>
 
-## `> PLAYER CARD`
+## STAGE 01: CHARACTER SELECT
 
-<table width="100%">
+<table>
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="55%" valign="top">
 
-<img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=USERNAME&backgroundColor=0f0c29&radius=12" width="170" alt="pixel avatar"/>
+```
+> LOADING PLAYER DATA...
 
-<sub><b>CLASS</b> — YOUR_ROLE</sub><br/>
-<sub><b>ORIGIN</b> — YOUR_CITY</sub><br/>
-<sub><b>GUILD</b> — Freelance / Studio Name</sub>
+  NAME     : NAMA KAMU
+  CLASS    : Full-Stack Developer
+  LEVEL    : 21
+  GUILD    : Open Source Contributor
+  WEAPON   : Keyboard + Terlalu Banyak Kopi
+  QUEST    : Membangun sesuatu yang berguna
+  STATUS   : [||||||||||------]  65% XP to Level 22
+```
 
 </td>
-<td width="70%" valign="top">
+<td width="45%" valign="center" align="center">
 
-| STAT | VALUE |
-| :-- | :-- |
-| NAME | `YOUR_NAME` |
-| LEVEL | `05` (years of experience) |
-| ALIGNMENT | Chaotic Good — ships on Friday afternoon |
-| HP — Motivation | `████████░░` 80% |
-| MP — Caffeine | `██████████` 100% |
-| XP — Currently Learning | `███████░░░` 70% |
-
-<details>
-<summary><code>&gt; OPEN DIALOGUE BOX</code></summary>
-<br/>
-
-Tulis bio singkat kamu di sini — siapa kamu, apa yang kamu bangun, dan apa yang bikin kamu excited soal coding. Dua sampai tiga kalimat sudah cukup, karena ini area dialog NPC, bukan CV.
-
-</details>
+<img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="190" alt="pixel art karakter mengetik cepat" />
 
 </td>
 </tr>
 </table>
 
-<br/>
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▒▓▓▓▓▓▓
 
-## `> INVENTORY — EQUIPPED GEAR`
+## STAGE 02: INVENTORY
 
-<table width="100%">
+<table>
 <tr>
-<th width="33%">WEAPON (Languages)</th>
-<th width="33%">ARMOR (Frameworks)</th>
-<th width="34%">ACCESSORY (Tools)</th>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nodejs,tailwind&theme=dark" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,docker,figma&theme=dark" /></td>
-</tr>
-</table>
+<td width="45%" valign="center" align="center">
 
+<img src="https://github.com/user-attachments/assets/29cf9353-a43a-4750-bcf1-94fb6a17c9bb" width="190" alt="pixel art karakter produktif" />
+
+</td>
+<td width="55%" valign="top">
+
+<details open>
+<summary><b>&gt; BAG 01 -- LANGUAGES</b></summary>
 <br/>
 
-## `> SKILL TREE`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<details>
-<summary><b>[ UNLOCK ] Frontend Branch</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,sass&theme=dark&perline=8" />
 </details>
 
 <details>
-<summary><b>[ UNLOCK ] Backend Branch</b></summary>
+<summary><b>&gt; BAG 02 -- FRAMEWORKS</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,go,java,graphql&theme=dark&perline=8" />
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 </details>
 
 <details>
-<summary><b>[ UNLOCK ] Database &amp; Infra Branch</b></summary>
+<summary><b>&gt; BAG 03 -- TOOLS &amp; PLATFORM</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,nginx&theme=dark&perline=8" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </details>
 
-<details>
-<summary><b>[ UNLOCK ] Tools Branch</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vim,postman&theme=dark&perline=8" />
-</details>
-
-<br/>
-
-## `> QUEST LOG`
-
-| QUEST | TYPE | STATUS | REWARD |
-| :-- | :-- | :-- | :-- |
-| [Nama Proyek 1](https://github.com/USERNAME/repo-satu) | Main Quest | `[ ACTIVE ]` | Stack: React, Node.js |
-| [Nama Proyek 2](https://github.com/USERNAME/repo-dua) | Side Quest | `[ CLEARED ]` | Stack: Python, FastAPI |
-| [Nama Proyek 3](https://github.com/USERNAME/repo-tiga) | Daily Quest | `[ IN PROGRESS ]` | Stack: TypeScript |
-
-<br/>
-
-## `> STATS SCREEN`
-
-<table width="100%">
-<tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub stats"/></td>
-<td width="50%"><img width="100%" src="https://streak-stats.demolab.com/?user=USERNAME&theme=synthwave&hide_border=true" alt="GitHub streak"/></td>
+</td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=synthwave-84&hide_border=true&area=true" alt="activity graph"/>
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▓▓▓▓▓▓
 
+## STAGE 03: QUEST LOG
+
+<img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="190" align="right" alt="pixel art penyihir sedang ngoding" />
+
+<details open>
+<summary><b>&gt; ACTIVE QUEST -- Nama Proyek Kamu</b></summary>
 <br/>
 
-## `> ACHIEVEMENTS UNLOCKED`
+Deskripsi singkat proyek kamu di sini. Ceritakan masalah apa yang
+diselesaikan dan tumpukan teknologi (tech stack) yang dipakai.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="trophies"/>
-</div>
+**Reward:** [Repo](#) &nbsp;|&nbsp; [Live Demo](#)
 
+</details>
+
+<details>
+<summary><b>&gt; SIDE QUEST -- Nama Proyek Lain</b></summary>
 <br/>
 
-## `> CONTINUE? [ Y / N ]`
+Deskripsi singkat proyek kedua kamu di sini.
+
+**Reward:** [Repo](#) &nbsp;|&nbsp; [Live Demo](#)
+
+</details>
+
+<br clear="right"/>
+
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▓▓▓▓▓▓
+
+## STAGE 04: WORLD MAP
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="190" alt="pixel art navigasi peta digital" />
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D0221&title_color=FFD700&text_color=EAEAEA&icon_color=08D9D6&hide_title=false" alt="statistik GitHub" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=USERNAME&background=0D0221&ring=FF2E63&fire=FFD700&currStreakLabel=EAEAEA&sideLabels=EAEAEA&dates=8892BF&border=FF2E63&hide_border=true" alt="streak kontribusi" width="48%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="ular pemakan kontribusi" width="90%" />
 
 </div>
 
 <details>
-<summary><code>&gt; CARA MENGAKTIFKAN ANIMASI ULAR DI ATAS</code></summary>
+<summary><b>&gt; CARA MENGAKTIFKAN ANIMASI ULAR DI ATAS</b></summary>
 <br/>
 
-Gambar ular di atas dihasilkan oleh GitHub Action, bukan gambar statis, jadi perlu didaftarkan sekali di repo profil kamu (`USERNAME/USERNAME`):
-
-1. Buat file baru: `.github/workflows/snake.yml`
-2. Isi dengan:
+1. Buat repo baru bernama sama persis dengan username kamu (`USERNAME/USERNAME`).
+2. Buat file `.github/workflows/snake.yml` dan isi dengan:
 
 ```yaml
-name: generate snake animation
+name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -186,13 +177,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+          github_user_name: USERNAME
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -200,21 +189,34 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit, lalu jalankan workflow-nya sekali secara manual (tab **Actions**).
-4. Setelah selesai jalan, gambar ular otomatis muncul dan ter-update tiap hari.
+3. Push, tunggu Action selesai jalan, lalu gambar ular di atas akan otomatis muncul.
 
 </details>
 
-<br/>
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▓▓▓▓▓▓
 
-## `> MULTIPLAYER INVITE`
+## STAGE 05: BOSS BATTLE
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="190" alt="pixel art tanda bahaya" />
+<br/><br/>
 
-| | |
-| :--: | :--: |
-| [![Gmail](https://img.shields.io/badge/-YOUR__EMAIL%40gmail.com-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-linkedin%2Fin%2FYOUR__LINKEDIN-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN) |
-| [![X](https://img.shields.io/badge/-%40YOUR__HANDLE-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE) | [![Discord](https://img.shields.io/badge/-YOUR__DISCORD-0f0c29?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_DISCORD) |
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trofi pencapaian GitHub" />
+
+</div>
+
+▓▓▓▓▓▓▒▒▒▒▒▒░░░░░░░░░░▒▒▒▒▒▓▓▓▓▓▓
+
+## STAGE 06: SAVE POINT
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be" width="190" alt="pixel art robot beristirahat di titik simpan" />
+<br/><br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-kamu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/USERNAME)
 
 </div>
 
@@ -222,8 +224,18 @@ jobs:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=39FF14&style=for-the-badge&label=VISITORS" alt="profile views"/>
+```
+[ ARROW KEYS ]  SCROLL
+[   ENTER    ]  OPEN LINK
+[    ESC     ]  BACK TO TOP
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer&text=GAME%20OVER%20-%20THANKS%20FOR%20PLAYING&fontSize=18&fontColor=00F5FF&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1" width="190" alt="pixel art burung hantu di malam hari, penutup halaman" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=GAME+OVER;CONTINUE%3F+Y+%2F+N" alt="game over" />
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=FF2E63&labelColor=0D0221" alt="jumlah kunjungan profil" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF2E63,100:08D9D6&height=120&section=footer" width="100%" alt="footer bergelombang" />
 
 </div>
