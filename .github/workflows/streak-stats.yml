@@ -1,0 +1,36 @@
+# Streak stats — generates profile/streak.svg statically (no runtime dependency
+# on the free-tier demolab service, which intermittently times out).
+# Referenced in README.md via ./profile/streak.svg
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml" # run when this file changes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: "user=${{ github.repository_owner }}&background=10121f&ring=FFCB05&fire=EE1515&currStreakNum=FFCB05&sideNums=F4F4F8&currStreakLabel=FFCB05&sideLabels=7C8FF0&dates=8A8FB5&border=3A3F5C"
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "chore: update streak stats" || exit 0
+          git push

@@ -76,9 +76,9 @@ SLEEP     ████░░░░░░░░░░░░░░░░   20%  (c
 <tr>
 <td width="28%" rowspan="2" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="110" alt="Charizard">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" width="110" alt="Blaziken">
 
-**BLAZE** · Charizard
+**BLAZE** · Blaziken
 *Party lead. Ships the big features.*
 <kbd>LV.88</kbd>
 
@@ -224,7 +224,13 @@ CURRENT STATUS
 </td>
 <td width="44%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=GlorysID&background=10121f&ring=FFCB05&fire=EE1515&currStreakNum=FFCB05&sideNums=F4F4F8&currStreakLabel=FFCB05&sideLabels=7C8FF0&dates=8A8FB5&border=3A3F5C" width="420" alt="GitHub streak stats">
+<!--
+  NOTE: this streak SVG is generated statically by
+  .github/workflows/streak-stats.yml into profile/streak.svg.
+  It 404s until the workflow runs for the first time (it auto-runs
+  on push of that workflow file, then daily at 03:00 UTC).
+-->
+<img src="./profile/streak.svg" width="420" alt="GitHub streak stats">
 
 </td>
 </tr>
