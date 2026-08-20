@@ -272,7 +272,7 @@ CURRENT STATUS
 </tr>
 </table>
 
-<img src="https://trophy.ryglcloud.net/?username=GlorysID&column=7&no-frame=true&no-bg=true&margin-w=8" width="1012" alt="trophy case">
+<img src="https://trophy.ryglcloud.net/?username=GlorysID&column=7&no-frame=true&no-bg=true&margin-w=8&theme=onedark" width="1012" alt="trophy case">
 
 <img src="./assets/divider.svg" width="1012" alt="">
 
