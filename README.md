@@ -13,9 +13,13 @@
 <tr>
 <td width="62%" valign="top">
 
-<br><br>
+<br><br><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=520&height=130&lines=ANJALI+SAPUTRA;AUTOMATION+TRAINER;GOTTA+AUTOMATE+%27EM+ALL!" alt="Typing intro: Anjali Saputra — Automation Trainer — Gotta automate em all!">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="56" alt="Pikachu"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=460&height=130&lines=ANJALI+SAPUTRA;AUTOMATION+TRAINER;GOTTA+AUTOMATE+%27EM+ALL!" alt="Typing intro: Anjali Saputra — Automation Trainer — Gotta automate em all!"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" width="56" alt="Meowth">
+
+<br>
+
+<kbd>▶ PRESS START</kbd>
 
 </td>
 <td width="38%" valign="top" align="center">
