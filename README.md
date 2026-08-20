@@ -74,7 +74,7 @@ SLEEP     ████░░░░░░░░░░░░░░░░   20%  (c
 
 <table width="100%">
 <tr>
-<td width="28%" rowspan="2" valign="top" align="center">
+<td width="28%" rowspan="2" valign="middle" align="center">
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" width="110" alt="Blaziken">
 
