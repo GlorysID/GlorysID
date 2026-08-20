@@ -13,7 +13,7 @@
 <tr>
 <td width="62%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=520&height=130&lines=Hey,+I'm+ANJALI!;Automatical+Technology;I+code+at+night." alt="Typing intro: Hey I'm Anjali — Automatical Technology — I code at night">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=520&height=130&lines=ANJALI+SAPUTRA;AUTOMATION+TRAINER;GOTTA+AUTOMATE+%27EM+ALL!" alt="Typing intro: Anjali Saputra — Automation Trainer — Gotta automate em all!">
 
 </td>
 <td width="38%" valign="top" align="center">
