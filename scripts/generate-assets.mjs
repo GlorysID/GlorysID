@@ -289,7 +289,7 @@ function banner() {
     @keyframes drift-b { from { transform: translateX(1180px) } to { transform: translateX(-220px) } }
     .walker { animation: walk-x 26s linear infinite; }
     @keyframes walk-x { from { transform: translateX(-70px) } to { transform: translateX(1090px) } }
-    .tail { animation: tail-bob .5s steps(2) infinite; transform-origin: 8px 34px; }
+    .tail { animation: tail-bob .5s steps(2) infinite; transform-box: fill-box; transform-origin: center bottom; }
     @keyframes tail-bob { 0%,100% { transform: rotate(0deg) } 50% { transform: rotate(-4deg) } }
     .legsA { animation: stepA .44s steps(1) infinite; }
     .legsB { animation: stepB .44s steps(1) infinite; }
@@ -410,7 +410,7 @@ function divider() {
     @keyframes march { from { transform: translateX(0) } to { transform: translateX(24px) } }
     .roll { animation: roll-x 13s linear infinite; }
     @keyframes roll-x { from { transform: translateX(-30px) } to { transform: translateX(1042px) } }
-    .spin { animation: spin 1.1s steps(8) infinite; transform-origin: 12px 12px; }
+    .spin { animation: spin 1.1s steps(8) infinite; transform-box: fill-box; transform-origin: center; }
     @keyframes spin { from { transform: rotate(0deg) } to { transform: rotate(360deg) } }
     .dspark1 { animation: dsparkle 2.2s steps(2) infinite; }
     .dspark2 { animation: dsparkle 2.2s steps(2) infinite .7s; }
@@ -469,7 +469,7 @@ function footer() {
     }
     .cursor { animation: blink 1s steps(1) infinite; }
     @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
-    .ball-wiggle { animation: wiggle 2.8s steps(2) infinite; transform-origin: 18px 20px; }
+    .ball-wiggle { animation: wiggle 2.8s steps(2) infinite; transform-box: fill-box; transform-origin: center bottom; }
     @keyframes wiggle { 0%,100% { transform: rotate(0deg) } 25% { transform: rotate(-14deg) } 75% { transform: rotate(12deg) } }
     .heart-beat { animation: beat 1.6s steps(2) infinite; }
     @keyframes beat { 0%,100% { opacity: .75 } 50% { opacity: 1 } }

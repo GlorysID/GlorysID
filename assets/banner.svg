@@ -13,7 +13,7 @@
     @keyframes drift-b { from { transform: translateX(1180px) } to { transform: translateX(-220px) } }
     .walker { animation: walk-x 26s linear infinite; }
     @keyframes walk-x { from { transform: translateX(-70px) } to { transform: translateX(1090px) } }
-    .tail { animation: tail-bob .5s steps(2) infinite; transform-origin: 8px 34px; }
+    .tail { animation: tail-bob .5s steps(2) infinite; transform-box: fill-box; transform-origin: center bottom; }
     @keyframes tail-bob { 0%,100% { transform: rotate(0deg) } 50% { transform: rotate(-4deg) } }
     .legsA { animation: stepA .44s steps(1) infinite; }
     .legsB { animation: stepB .44s steps(1) infinite; }
