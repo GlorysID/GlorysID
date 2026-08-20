@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="36" viewBox="0 0 460 36">
+<title>intro accent — pokéball resting on a pixel line</title>
+<desc>A thin animated divider: a light glint sweeps along a dashed pixel line while a small Pokéball gently bobs at its centre.</desc>
+<style><![CDATA[
+.glint { animation: sweep 4.2s linear infinite; }
+    @keyframes sweep { from { transform: translateX(-60px) } to { transform: translateX(470px) } }
+    .ball-bob { animation: bob 3.2s ease-in-out infinite; }
+    @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-3px) } }
+    .spark-a { animation: twinkle 2.6s steps(2) infinite; }
+    .spark-b { animation: twinkle 2.6s steps(2) infinite .85s; }
+    .spark-c { animation: twinkle 2.6s steps(2) infinite 1.7s; }
+    @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
+]]></style>
+<rect width="460" height="36" fill="#10121f"/>
+<g><rect x="12" y="26" width="10" height="4" fill="#2a2e45"/><rect x="32" y="26" width="10" height="4" fill="#2a2e45"/><rect x="52" y="26" width="10" height="4" fill="#2a2e45"/><rect x="72" y="26" width="10" height="4" fill="#2a2e45"/><rect x="92" y="26" width="10" height="4" fill="#2a2e45"/><rect x="112" y="26" width="10" height="4" fill="#2a2e45"/><rect x="132" y="26" width="10" height="4" fill="#2a2e45"/><rect x="152" y="26" width="10" height="4" fill="#2a2e45"/><rect x="172" y="26" width="10" height="4" fill="#2a2e45"/><rect x="192" y="26" width="10" height="4" fill="#2a2e45"/><rect x="212" y="26" width="10" height="4" fill="#2a2e45"/><rect x="232" y="26" width="10" height="4" fill="#2a2e45"/><rect x="252" y="26" width="10" height="4" fill="#2a2e45"/><rect x="272" y="26" width="10" height="4" fill="#2a2e45"/><rect x="292" y="26" width="10" height="4" fill="#2a2e45"/><rect x="312" y="26" width="10" height="4" fill="#2a2e45"/><rect x="332" y="26" width="10" height="4" fill="#2a2e45"/><rect x="352" y="26" width="10" height="4" fill="#2a2e45"/><rect x="372" y="26" width="10" height="4" fill="#2a2e45"/><rect x="392" y="26" width="10" height="4" fill="#2a2e45"/><rect x="412" y="26" width="10" height="4" fill="#2a2e45"/><rect x="432" y="26" width="10" height="4" fill="#2a2e45"/></g>
+<g class="glint"><rect x="0" y="26" width="10" height="4" fill="#c9a227"/><rect x="20" y="26" width="10" height="4" fill="#ffcb05"/><rect x="40" y="26" width="10" height="4" fill="#ffe27a"/></g>
+<rect x="0" y="26" width="8" height="4" fill="#ee1515"/>
+<rect x="452" y="26" width="8" height="4" fill="#ee1515"/>
+<g transform="translate(218,2)"><g class="ball-bob"><g><path d="M6 0h12v2h-12zM4 2h16v2h-16zM2 4h20v2h-20zM0 6h24v2h-24zM0 8h24v2h-24z" fill="#ee1515"/><path d="M0 10h24v2h-24zM0 12h10v2h-10zM14 12h10v2h-10zM0 14h8v2h-8zM16 14h8v2h-8zM0 16h10v2h-10zM14 16h10v2h-10z" fill="#05060a"/><path d="M10 12h4v2h-4zM8 14h2v2h-2zM12 14h2v2h-2zM10 16h4v2h-4zM0 18h24v2h-24zM2 20h20v2h-20zM4 22h16v2h-16z" fill="#f4f4f8"/><path d="M10 14h2v2h-2zM14 14h2v2h-2z" fill="#3b4cca"/></g></g></g>
+<g transform="translate(96,6)"><g class="spark-a"><path d="M4 0h2v2h-2zM2 2h2v2h-2zM6 2h2v2h-2zM0 4h10v2h-10zM2 6h2v2h-2zM6 6h2v2h-2zM4 8h2v2h-2z" fill="#ffcb05"/></g></g>
+<g transform="translate(352,8)"><g class="spark-b"><path d="M4 0h2v2h-2zM2 2h2v2h-2zM6 2h2v2h-2zM0 4h10v2h-10zM2 6h2v2h-2zM6 6h2v2h-2zM4 8h2v2h-2z" fill="#7c8ff0"/></g></g>
+<g transform="translate(150,10)"><g class="spark-c"><path d="M2 0h1v1h-1zM1 1h1v1h-1zM3 1h1v1h-1zM0 2h5v1h-5zM1 3h1v1h-1zM3 3h1v1h-1zM2 4h1v1h-1z" fill="#fff3b0"/></g></g>
+<rect x="0" y="0" width="460" height="2" fill="#2a2e45" opacity=".6"/>
+<rect x="0" y="34" width="460" height="2" fill="#2a2e45" opacity=".6"/>
+</svg>

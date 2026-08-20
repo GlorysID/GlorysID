@@ -11,28 +11,38 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="middle">
 
-<br><br><br><br>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="56" alt="Pikachu"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=460&height=130&lines=ANJALI+SAPUTRA;AUTOMATION+TRAINER;GOTTA+AUTOMATE+%27EM+ALL!" alt="Typing intro: Anjali Saputra — Automation Trainer — Gotta automate em all!"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" width="56" alt="Meowth">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=FFCB05&center=true&vCenter=true&multiline=true&width=460&height=130&lines=ANJALI+SAPUTRA;AUTOMATION+TRAINER;GOTTA+AUTOMATE+%27EM+ALL!" alt="Typing intro: Anjali Saputra — Automation Trainer — Gotta automate em all!">
+
+<br>
+
+<img src="./assets/intro-accent.svg" width="460" alt="">
 
 <br>
 
 <kbd>▶ PRESS START</kbd>
 
+<br><br>
+
 </td>
-<td width="38%" valign="top" align="center">
+<td width="38%" valign="middle" align="center">
 
 <img src="https://komarev.com/ghpvc/?username=GlorysID&style=for-the-badge&color=3B4CCA&label=TRAINERS+SPOTTED" alt="visitor counter">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CAUGHT-151-FFCB05?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmNGY0ZjgiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAyMCAwWiIgZmlsbD0iI2VlMTUxNSIvPjxyZWN0IHg9IjIiIHk9IjEwLjgiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyLjQiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjciIGZpbGw9IiNmNGY0ZjgiLz48L3N2Zz4%3D&logoColor=white" alt="caught 151 badge"> <img src="https://img.shields.io/badge/PARTNER-PIKACHU-EE1515?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmNGY0ZjgiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAyMCAwWiIgZmlsbD0iI2VlMTUxNSIvPjxyZWN0IHg9IjIiIHk9IjEwLjgiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyLjQiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjciIGZpbGw9IiNmNGY0ZjgiLz48L3N2Zz4%3D&logoColor=white" alt="partner pikachu badge">
+<img src="https://img.shields.io/badge/CAUGHT-151-FFCB05?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmNGY0ZjgiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAyMCAwWiIgZmlsbD0iI2VlMTUxNSIvPjxyZWN0IHg9IjIiIHk9IjEwLjgiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyLjQiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjciIGZpbGw9IiNmNGY0ZjgiLz48L3N2Zz4%3D&logoColor=white" alt="caught 151 badge">
+
+<br>
+
+<img src="https://img.shields.io/badge/PARTNER-PIKACHU-EE1515?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmNGY0ZjgiLz48cGF0aCBkPSJNMiAxMmExMCAxMCAwIDAgMSAyMCAwWiIgZmlsbD0iI2VlMTUxNSIvPjxyZWN0IHg9IjIiIHk9IjEwLjgiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyLjQiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIzLjIiIGZpbGw9IiMxMDEyMWYiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxLjciIGZpbGw9IiNmNGY0ZjgiLz48L3N2Zz4%3D&logoColor=white" alt="partner pikachu badge">
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/172.gif" width="72" alt="Pichu waving">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="64" alt="Pikachu — the trainer's partner">
 
 </td>
 </tr>

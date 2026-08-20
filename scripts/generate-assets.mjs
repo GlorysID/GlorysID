@@ -585,6 +585,54 @@ ${px(HEAD, HEAD_PAL, { x: 24, y: 26, s: 12 })}
 }
 
 /* ------------------------------------------------------------------ */
+/*  6. INTRO ACCENT — 460x36 animated underline for the typing hero    */
+/* ------------------------------------------------------------------ */
+function introAccent() {
+  const W = 460, H = 36;
+
+  /* base pixel dash line (sits low so the ball can rest on it) */
+  const dashes = [];
+  for (let x = 12; x < W - 12; x += 20) {
+    dashes.push(`<rect x="${x}" y="26" width="10" height="4" fill="${C.lineSoft}"/>`);
+  }
+
+  /* travelling glint: a bright 3-dash segment sweeping across the line */
+  const glint = [
+    `<rect x="0" y="26" width="10" height="4" fill="${C.yellowDim}"/>`,
+    `<rect x="20" y="26" width="10" height="4" fill="${C.yellow}"/>`,
+    `<rect x="40" y="26" width="10" height="4" fill="${C.yellowHi}"/>`,
+  ];
+
+  const css = `
+    .glint { animation: sweep 4.2s linear infinite; }
+    @keyframes sweep { from { transform: translateX(-60px) } to { transform: translateX(${W + 10}px) } }
+    .ball-bob { animation: bob 3.2s ease-in-out infinite; }
+    @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-3px) } }
+    .spark-a { animation: twinkle 2.6s steps(2) infinite; }
+    .spark-b { animation: twinkle 2.6s steps(2) infinite .85s; }
+    .spark-c { animation: twinkle 2.6s steps(2) infinite 1.7s; }
+    @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
+  `;
+
+  return `${svgOpen(W, H)}
+<title>intro accent — pokéball resting on a pixel line</title>
+<desc>A thin animated divider: a light glint sweeps along a dashed pixel line while a small Pokéball gently bobs at its centre.</desc>
+${styleBlock(css)}
+<rect width="${W}" height="${H}" fill="${C.bg1}"/>
+<g>${dashes.join('')}</g>
+<g class="glint">${glint.join('')}</g>
+<rect x="0" y="26" width="8" height="4" fill="${C.red}"/>
+<rect x="${W - 8}" y="26" width="8" height="4" fill="${C.red}"/>
+<g transform="translate(${W / 2 - 12},2)"><g class="ball-bob">${px(POKEBALL2, POKEBALL2_PAL, { s: 2 })}</g></g>
+<g transform="translate(96,6)">${px(SPARK, { Y: C.yellow }, { s: 2, cls: 'spark-a' })}</g>
+<g transform="translate(352,8)">${px(SPARK, { Y: C.blueHi }, { s: 2, cls: 'spark-b' })}</g>
+<g transform="translate(150,10)">${px(SPARK, { Y: C.star }, { s: 1, cls: 'spark-c' })}</g>
+<rect x="0" y="0" width="${W}" height="2" fill="${C.lineSoft}" opacity=".6"/>
+<rect x="0" y="${H - 2}" width="${W}" height="2" fill="${C.lineSoft}" opacity=".6"/>
+</svg>`;
+}
+
+/* ------------------------------------------------------------------ */
 /*  write everything                                                   */
 /* ------------------------------------------------------------------ */
 mkdirSync(OUT, { recursive: true });
@@ -600,6 +648,7 @@ const files = {
   'plate-battle-stats.svg': plate({ num: 'TM.05', title: 'BATTLE STATS', accent: C.red, tag: 'LIVE FEED' }),
   'plate-coop.svg': plate({ num: 'TM.06', title: 'CO-OP LINK', accent: C.blueHi, tag: 'TRADE / BATTLE / CO-OP' }),
   'portrait.svg': portrait(),
+  'intro-accent.svg': introAccent(),
 };
 
 for (const [name, content] of Object.entries(files)) {
