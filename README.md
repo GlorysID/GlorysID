@@ -294,7 +294,7 @@ CURRENT STATUS
 
 <br><br>
 
-<a href="https://github.com/GlorysID"><img src="https://img.shields.io/badge/GITHUB-GlorysID-3B4CCA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_CO--OP-EE1515?style=for-the-badge&logoColor=white" alt="open to co-op"> <img src="https://img.shields.io/badge/RESPONSE-FAST_WHEN_AWAKE-FFCB05?style=for-the-badge&logoColor=black" alt="response time: fast when awake">
+<a href="https://github.com/GlorysID"><img src="https://img.shields.io/badge/GITHUB-GlorysID-3B4CCA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a> <a href="https://www.anjalisaputra.site/"><img src="https://img.shields.io/badge/PORTFOLIO-anjalisaputra.site-FFCB05?style=for-the-badge&logo=googlechrome&logoColor=10121f" alt="Portfolio website"></a> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_CO--OP-EE1515?style=for-the-badge&logoColor=white" alt="open to co-op"> <img src="https://img.shields.io/badge/RESPONSE-FAST_WHEN_AWAKE-FFCB05?style=for-the-badge&logoColor=black" alt="response time: fast when awake">
 
 </td>
 </tr>
