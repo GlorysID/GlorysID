@@ -227,7 +227,7 @@ CURRENT STATUS
 
 <img src="./assets/plate-battle-stats.svg" width="1012" alt="Section header: TM.05 Battle Stats">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GlorysID&bg_color=10121f&color=FFCB05&title_color=FFCB05&line=3B4CCA&point=EE1515&area=true&hide_border=true&custom_title=EXP+GAINED+LAST+31+DAYS" width="1012" alt="activity graph: EXP gained last 31 days">
+<img src="https://readme-activity-graph.vercel.app/graph?username=GlorysID&bg_color=10121f&color=FFCB05&title_color=FFCB05&line=3B4CCA&point=EE1515&area=true&hide_border=true&custom_title=EXP+GAINED+LAST+31+DAYS" width="1012" alt="activity graph: EXP gained last 31 days">
 
 <br><br>
 
